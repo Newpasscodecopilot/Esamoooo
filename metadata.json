@@ -1,0 +1,6 @@
+{
+  "name": "Multi School ERP SaaS",
+  "description": "A comprehensive multi-tenant school management ERP platform featuring distinct dashboards for Super Admins, School Admins, Teachers, Students, and Parents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
